@@ -1,0 +1,31 @@
+Title: Formule e paragrafi semplici
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Aliquam consectetur euismod accumsan. Duis eu nisi non nunc euismod malesuada. Phasellus maximus lacinia orci, non tempus turpis euismod nec. In **vitae accumsan** enim. Donec mi ante, mattis eu mi convallis, blandit sodales augue. Aenean ornare eu erat in pretium.
+
+$$ 2r + R = (a + b + c) $$
+
+Quisque in faucibus ante, eu malesuada metus. Ut tempor lorem eu massa eleifend faucibus a id turpis. Duis *tortor tortor*, ultricies eu luctus id, tincidunt vel justo. Vivamus placerat gravida arcu, eu vehicula odio pellentesque in. Donec quis dui feugiat purus rutrum consequat.
+
+$$r + 2R = (a+b+c)/2.$$
+
+Cras bibendum tristique nisi a eleifend. Aliquam accumsan sed est sit amet placerat. Curabitur a magna tortor. Cras (link: # text: ultrices lacus) libero, in commodo enim tristique eu. Nulla mi arcu, sagittis et imperdiet non, venenatis id ligula. Nullam eget sollicitudin ipsum, vehicula maximus nulla. Morbi gravida rutrum nulla, et venenatis eros lacinia non. Proin non venenatis nisl. Suspendisse ac magna risus.
+
+----
+
+Featured: 0

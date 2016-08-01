@@ -1,0 +1,32 @@
+Title: Esempio di scritto con citazione
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Aliquam consectetur euismod nunc.
+Duis eu nisi non nunc euismod id.
+In vitae accumsan enim malesuada.
+Aenean ornare eu erat in pretium.
+Phasellus maximus lacinia orci.
+Non tempus turpis euismod nec.
+
+Ispirata dalle seguenti parole di (link: # text: Pinco Pallino):
+
+> Phasellus lorem ligula, placerat at placerat nec, ultrices quis dolor. Nulla mauris turpis, pulvinar volutpat nisl id, pellentesque molestie nunc. Aliquam eget molestie nisl.
+
+----
+
+Featured: 0

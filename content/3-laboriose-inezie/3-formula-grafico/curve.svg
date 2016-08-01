@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="820px" height="520px" viewBox="0 0 820 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>quad01</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="quad01">
+            <path d="M10,260 C143.333333,93.3333333 276.666667,93.3333333 410,260 C543.333333,426.666667 676.666667,426.666667 810,260" id="Shape" stroke="#FF0000" stroke-width="5"></path>
+            <g id="Group" transform="translate(0.000000, 250.000000)" fill="#000000">
+                <circle id="Oval" cx="10" cy="10" r="10"></circle>
+                <circle id="Oval" cx="410" cy="10" r="10"></circle>
+                <circle id="Oval" cx="810" cy="10" r="10"></circle>
+            </g>
+            <g id="Group" transform="translate(200.000000, 0.000000)" fill="#888888">
+                <circle id="Oval" cx="10" cy="10" r="10"></circle>
+                <circle id="Oval" cx="410" cy="510" r="10"></circle>
+            </g>
+            <polyline id="Shape" stroke="#888888" stroke-width="2" points="10 260 210 10 410 260 610 510 810 260"></polyline>
+        </g>
+    </g>
+</svg>

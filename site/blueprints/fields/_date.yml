@@ -1,0 +1,4 @@
+label: Data di pubblicazione
+type: date
+default: now
+width: 1/2

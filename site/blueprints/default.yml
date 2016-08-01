@@ -1,0 +1,23 @@
+title: Pagina
+pages: false
+files: true
+icon: file-text-o
+fields:
+  title: _title
+  date: _date
+  date_hidden:
+    extends: _hidden
+    text: Non mostrare la data
+  featured: _featured
+  text: _textarea
+files:
+  fields:
+    visibility:
+      label: Visibilità
+      type: checkbox
+      default: false
+      text: Mostra fra gli allegati
+      help: Spuntando questa casella, il file comparirà fra gli allegati della pagina e potrà essere scaricato.
+    description:
+      extends: _textarea
+      label: Descrizione

@@ -1,0 +1,17 @@
+Title: Ponte
+
+----
+
+Date: 2016-07-22
+
+----
+
+Date-hidden: 1
+
+----
+
+Photo: bridge.jpg
+
+----
+
+Text: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae.

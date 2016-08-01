@@ -1,0 +1,7 @@
+title: Error
+pages: false
+files: false
+icon: exclamation
+fields:
+  title: _title
+  text: _textarea

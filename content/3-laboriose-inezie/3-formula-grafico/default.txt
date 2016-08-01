@@ -1,0 +1,31 @@
+Title: Formula e grafico con didascalia
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+In ut diam mi. Aenean sapien lectus, vehicula luctus ipsum non, fringilla eleifend elit. Ut ac ipsum justo. Donec facilisis, quam sit amet rhoncus luctus, tortor neque fermentum mi, tristique varius risus ipsum in ipsum.
+
+$$x^3-Tr(A)x^2+\frac12[Tr^2(A)-Tr(A^2)]x-det(A)=0$$
+
+Phasellus nisi libero, pulvinar quis velit id, aliquet rutrum quam. Pellentesque rutrum libero ipsum, et interdum ligula luctus vel. Donec vitae mi id purus sodales fermentum. Suspendisse eu ligula imperdiet magna vehicula eleifend. Ut euismod nibh auctor, imperdiet urna sit amet, pharetra ipsum. Morbi et sagittis ipsum.
+
+(image: curve.svg width: 80% caption: Questa è una curva.)
+
+Fusce magna ipsum, hendrerit quis augue eleifend, pulvinar imperdiet risus. Donec sit amet tortor a turpis viverra rutrum. Cras accumsan pretium elit, a sodales metus fermentum vitae. Fusce mattis, tellus eu rhoncus tincidunt, mi est pretium orci, id finibus sapien nulla nec arcu.
+
+----
+
+Featured: 1

@@ -1,0 +1,31 @@
+Title: Disegno tecnico, allegato in formato PDF
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Sed in urna dolor. Nulla hendrerit nisi nec lectus aliquet, at ultricies erat lacinia. Morbi tincidunt diam sit amet quam tempus venenatis. Mauris ultricies leo et nulla congue laoreet. Maecenas varius mauris eget neque sodales condimentum.
+
+(image: airfoil-geometry.svg width: 90% caption: Airfoil geometry as of 1959)
+
+Nulla placerat, tellus non maximus scelerisque, purus erat accumsan neque, vel fermentum ex lectus in ligula. Nulla facilisi. Aliquam erat volutpat.
+
+$$3x^2 \frac{dx}{dt} - 2a(t)\frac{da}{dt}x - [a(t)]^2\frac{dx}{dt} - 2b(t) \frac{db}{dt} = 0$$
+
+Nam dolor diam, euismod id mi sit amet, tempor lobortis arcu. Fusce sed tempus mi. Nunc faucibus, massa in volutpat sagittis, metus est dapibus nulla, scelerisque blandit ante metus ut nisl. Duis non lacus pellentesque, lacinia odio ut, tempus neque. Pellentesque blandit est nec aliquam molestie.
+
+----
+
+Featured: 1

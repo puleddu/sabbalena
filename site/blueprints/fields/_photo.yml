@@ -1,0 +1,8 @@
+label: Fotografia
+type: select
+options: query
+query:
+  fetch: images
+  value: '{{filename}}'
+  text: '{{filename}}'
+help: Scegli tra i file allegati a questo articolo.

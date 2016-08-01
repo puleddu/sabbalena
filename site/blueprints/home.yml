@@ -1,0 +1,7 @@
+title: Home
+pages: false
+files: false
+icon: home
+fields:
+  title: _title
+  text: _textarea

@@ -1,0 +1,8 @@
+title: Page
+pages: default
+files: false
+deletable: false
+icon: folder-open-o
+fields:
+  title: _title
+  text: _textarea

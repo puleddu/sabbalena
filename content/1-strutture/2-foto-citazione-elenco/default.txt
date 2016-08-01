@@ -1,0 +1,40 @@
+Title: Foto di apertura, citazione ed elenco puntato
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 0
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+(image: bridge.jpg)
+
+Curabitur egestas (link: # text: aliquet dignissim). Donec elementum lorem id *sollicitudin lacinia*. Donec eget auctor neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis iaculis, massa at tempor egestas, nisl massa egestas metus, sit amet facilisis velit dui a nibh.
+
+> Nulla mauris turpis, pulvinar volutpat nisl id, pellentesque molestie nunc. Aliquam eget molestie nisl. Aliquam a mi leo. Etiam ut enim porttitor, faucibus tellus ut, bibendum enim.
+
+Morbi quis *tortor* tellus. Vivamus eleifend:
+
+- Praesent vel massa lacinia;
+- Enenatis libero egestas;
+- Congue urna, integer non risus.
+
+Cras augue odio, aliquet id nibh:
+
+1. Augue odio, aliquet;
+2. Sollicitudin mauris locus.
+
+Cras sed enim ornare, **ornare elit** eget, efficitur nulla. Curabitur lectus mi, tincidunt sollicitudin mauris sed, luctus tempor tellus. Cras augue odio, aliquet id nibh at, tincidunt (link: # text: ultrices magna). Duis in luctus lacus.
+
+----
+
+Featured: 0

@@ -1,0 +1,31 @@
+Title: Formula e fotografia
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Maecenas tincidunt ligula sodales neque volutpat, non cursus nulla pellentesque. Phasellus posuere ligula faucibus, sodales libero et, suscipit lorem: 
+
+$$  \int_{-\infty}^{0} \frac{\log|x| + i \pi}{a^{2}+x^{2}} \ dx $$
+
+Pellentesque vestibulum magna tellus, vitae convallis lorem blandit at. Pellentesque non ex elit.
+
+(image: cactus.jpg)
+
+Proin ut quam sit amet arcu eleifend molestie ut in nisl. Vivamus convallis, elit ac pharetra sollicitudin, erat libero ullamcorper nulla, non (link: # text: lacinia augue) arcu sed nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+----
+
+Featured: 0

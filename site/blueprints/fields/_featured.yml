@@ -1,0 +1,6 @@
+label: In primo piano
+type: checkbox
+default: false
+text: Mostra nella Home Page
+help: L'indice conterrà solo gli articoli più recenti.
+width: 1/2

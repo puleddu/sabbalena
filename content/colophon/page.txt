@@ -1,0 +1,12 @@
+Title: Colophon
+
+----
+
+Text: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+- thank someone that (link: # text: helped you)
+- or (link: # text: say what) helped you with this
+
+Phasellus lorem ligula, placerat at placerat nec, ultrices quis dolor. Phasellus lorem ligula, placerat.

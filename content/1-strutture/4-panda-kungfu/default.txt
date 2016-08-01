@@ -1,0 +1,29 @@
+Title: Foto e link, articolo semplice con data nascosta
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Nulla eros metus, ultricies non dignissim vitae, aliquet in dolor. Donec tristique augue non dapibus rutrum. Nam a tellus eu odio venenatis tempus. Praesent dignissim fermentum pulvinar. Quisque pretium sodales feugiat. Integer tortor metus, tincidunt ac dui eget, porta viverra lacus. Curabitur pharetra purus sit amet orci dignissim scelerisque. Cras sit amet efficitur eros.
+
+(image: fruit.jpg caption: Just a bucket of blueberries)
+
+Donec mollis mattis libero, id mollis purus ullamcorper eu. Sed eu rhoncus nibh. Ut aliquet, urna at dapibus egestas, sem justo iaculis elit, eget blandit libero est sed libero. Nunc eget imperdiet purus, ut laoreet risus. (link: # text: Curabitur condimentum) tellus at nunc imperdiet, non malesuada lorem vulputate. Vestibulum in urna elit. Nullam nisl diam, consectetur feugiat dapibus ut, ultrices vitae sem.
+
+ Aliquam viverra risus et dui tempus porta. Nunc maximus nibh dapibus elit vehicula iaculis. Proin consectetur sem velit, in luctus massa blandit et.
+
+----
+
+Featured: 1

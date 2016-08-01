@@ -1,0 +1,31 @@
+Title: Altro disegno tecnico e formula
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Proin iaculis ullamcorper dui, imperdiet gravida tortor porta sit amet. Etiam dapibus nec quam vitae efficitur. Quisque suscipit, diam eget tincidunt ullamcorper, felis nisl aliquam nibh, ac tempor turpis sem non tortor. Ut sit amet sollicitudin mauris, aliquam laoreet urna. Praesent fringilla dapibus urna, vitae iaculis urna mollis at. Donec commodo, tellus nec faucibus laoreet, ante nulla lacinia ipsum, ut mattis justo odio quis turpis.
+
+$$\left(\frac{5-3y}{2}\right)^2+y^2-(5-3y)+6y-35=0$$
+
+Fusce dapibus felis non fermentum placerat. Nullam semper sed nisi sed iaculis. In pharetra dui libero, quis euismod augue condimentum sodales. Nullam molestie elit non sem iaculis sollicitudin. Integer elementum, purus id cursus porttitor, est diam fermentum nisl, at consequat leo nisl sed nibh. Ut venenatis mollis erat at scelerisque.
+
+(image: epicycloid.svg width: 80%)
+
+Morbi non felis nunc. Sed leo nibh, fermentum eget tincidunt a, rhoncus eget tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+----
+
+Featured: 0

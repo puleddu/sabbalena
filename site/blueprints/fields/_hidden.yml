@@ -1,0 +1,4 @@
+label: Nascondi
+type: checkbox
+default: true
+width: 1/2

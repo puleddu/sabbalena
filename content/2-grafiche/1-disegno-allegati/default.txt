@@ -1,0 +1,31 @@
+Title: Disegno e un allegato visibile, l'altro nascosto
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 0
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Mauris et tincidunt mi. Nullam ac est ut velit fringilla elementum vel ac turpis. Phasellus volutpat eget odio vitae aliquam. Morbi convallis, leo vel congue ullamcorper, diam urna porttitor justo, ut sagittis diam nibh vitae magna.
+
+(image: spherically-blunted-cone.svg)
+
+Duis enim ipsum, suscipit ac eros non, molestie porta justo. Morbi a vestibulum mi, posuere dapibus odio. Suspendisse placerat orci vitae erat consequat, a congue mi vehicula. Nulla placerat massa nec leo semper, eget ultrices dolor consequat. Curabitur vitae turpis sit amet ligula eleifend venenatis sed sit amet tortor.
+
+(image: building-glass.jpg)
+
+Praesent magna nunc, vehicula non felis vel, pellentesque tempus est. Ut bibendum magna orci, at maximus diam consequat sit amet. Maecenas interdum turpis non lacinia dapibus. Vivamus tincidunt metus mauris, sit amet scelerisque justo rhoncus id.
+
+----
+
+Featured: 1

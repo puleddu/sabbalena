@@ -1,0 +1,7 @@
+title: Fotografie
+pages: fotografia
+files: false
+icon: folder-open-o
+fields:
+  title: _title
+  text: _textarea

@@ -1,0 +1,29 @@
+Title: Esempio di un file audio con player
+
+----
+
+Date: 2016-03-13
+
+----
+
+Date-hidden: 0
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Pellentesque non faucibus nibh, quis iaculis tellus. Sed viverra consectetur ligula, a aliquet justo semper at. Vivamus nunc eros, malesuada non sagittis non, vestibulum nec justo. Phasellus lorem ligula, placerat at placerat nec, ultrices quis dolor. Nulla mauris turpis.
+
+Phasellus lorem ligula, placerat at placerat nec, ultrices quis dolor.  Sagittis non vestibulum nec.
+
+(audio: pianoforte.m4a)
+
+Nulla mauris turpis, pulvinar volutpat nisl id, pellentesque molestie nunc. Aliquam eget molestie nisl. Vivamus nunc eros, malesuada non sagittis non, vestibulum nec justo.
+
+----
+
+Featured: 1

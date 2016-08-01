@@ -1,17 +1,20 @@
-Title: Kirby Starterkit
+Title: Sabbalena
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Giovanni Maria Tanda, Carpentiere specializzato
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description:
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords:
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright:
+
+_di_ G. Tanda, Carpentiere Specializzato
+Copyright 2009-(date: Year) (link: /colophon text: Colophon)

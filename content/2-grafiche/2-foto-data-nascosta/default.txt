@@ -1,0 +1,29 @@
+Title: Foto con didascalia: non mostra la data
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+(image: building.jpg caption: Esempio di una didascalia.)
+
+Vivamus odio orci, laoreet sed nisl et, scelerisque dictum erat. Fusce et tortor et augue posuere consequat. Proin commodo magna in lectus convallis, eu aliquet enim ullamcorper. Sed rhoncus risus risus. Suspendisse ut aliquam eros, (link: # text: esempio di collegamento). Etiam pharetra urna massa, quis iaculis ligula ullamcorper nec. Vestibulum faucibus a tortor vitae molestie.
+
+> Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc lobortis, augue in ultricies ultricies, ante arcu accumsan nisi, vitae mattis orci mauris nec sem.
+
+Aenean scelerisque nisi at mollis semper. Pellentesque in ipsum tristique neque aliquam dapibus. Donec laoreet erat in neque consequat feugiat at quis eros. Aenean faucibus eros a lectus facilisis, eu sollicitudin odio auctor. Proin urna neque, interdum nec ligula eu, posuere euismod ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin sed nulla nec eros convallis placerat.
+
+----
+
+Featured: 1

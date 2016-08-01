@@ -1,0 +1,31 @@
+Title: Immagine, formula e allegato (esempio link)
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Mauris tincidunt magna lectus, vitae dictum justo pulvinar eget. Quisque nec mollis nibh, non tempor felis. Fusce posuere est nisi, at malesuada leo tincidunt eu. Phasellus pharetra lacinia felis, id elementum tortor varius vitae.
+
+(image: bike.svg width: 80%)
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce a sagittis metus. Lorem ipsum dolor sit amet, (link: # text: adipiscing elit). Nulla felis orci, dictum at tincidunt nec, feugiat ut neque. Sed ornare molestie lacus et mattis. Nulla auctor interdum purus eu commodo.
+
+$$\frac{\pi}{3} + (-2)^{-n}(A - \frac{\pi}{3})\ $$
+
+Quisque ullamcorper luctus ex vitae mollis. Vivamus sed cursus nulla, nec blandit leo. Vivamus id felis dignissim, tincidunt enim vitae, elementum tortor. Cras interdum accumsan massa, eu vehicula sapien. Aliquam erat volutpat. In suscipit quis urna nec varius. Fusce efficitur, ex id ultrices convallis, dolor ipsum malesuada tortor, sed pellentesque sapien tellus nec mi. Quisque sit amet suscipit dui. Praesent eget nunc at ligula condimentum pulvinar vel sed lorem.
+
+----
+
+Featured: 1

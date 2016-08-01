@@ -1,0 +1,38 @@
+Title: Esempio di testo in versi
+
+----
+
+Date: 2016-07-16
+
+----
+
+Date-hidden: 1
+
+----
+
+Copertina: 
+
+----
+
+Text: 
+
+Vivamus tincidunt lorem conver
+Quis tempor placerat sedo.
+Phasellus molestie finibus
+Tellus eu congue faucis.
+Nam euismod mauris
+Sapien accumsan lacinia.
+Nam porttitor lectus  artalis
+Non faucibus convallis.
+
+Donec sit amet pulvinar arcu.
+Aliquam vel pellentesque neque.
+Proin tempus venenatis
+Duis porttitor finibus nibhul
+
+Nulla venenatis arcu quamde,
+id rutrum libero porta egetcu.
+
+----
+
+Featured: 1

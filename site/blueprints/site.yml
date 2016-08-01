@@ -1,0 +1,17 @@
+title: Site
+pages: false
+files: false
+fields:
+  title: _title
+  author:
+    label: Author
+    type:  text
+  description:
+    extends: _textarea
+    label: Description
+  keywords:
+    label: Keywords
+    type:  tags
+  copyright:
+    extends: _textarea
+    label: Copyright

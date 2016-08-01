@@ -1,0 +1,21 @@
+Title: Cavallo
+
+----
+
+Date: 2016-07-18
+
+----
+
+Text: Nulla placerat massa nec leo semper, eget ultrices dolor consequat. Phasellus lorem ligula, placerat at placerat nec, ultrices quis dolor. Mauris turpis, pulvinar volutpat.
+
+----
+
+Title-hidden: 1
+
+----
+
+Date-hidden: 1
+
+----
+
+Photo: horse.jpg

@@ -1,0 +1,28 @@
+title: Fotografia
+pages: false
+icon: photo
+files:
+  sortable: true
+fields:
+  title: _title
+  date: _date
+  date-hidden:
+    extends: _hidden
+    text: Non mostrare la data
+  photo:
+    extends: _photo
+    required: true
+  text:
+    extends: _textarea
+    label: Didascalia
+files:
+  fields:
+    visibility:
+      label: Visibilità
+      type: checkbox
+      default: false
+      text: Mostra fra gli allegati
+      help: Spuntando questa casella, il file comparirà fra gli allegati della pagina e potrà essere scaricato.
+    description:
+      extends: _textarea
+      label: Descrizione

@@ -1,0 +1,9 @@
+title: Pagina
+pages: false
+files: false
+icon: file-text-o
+options:
+  url: false
+fields:
+  title: _title
+  text: _textarea
